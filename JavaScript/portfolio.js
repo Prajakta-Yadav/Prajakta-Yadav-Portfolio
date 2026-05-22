@@ -1,6 +1,6 @@
 // JavaScript for dynamic role display
     let roles = [
-      "Web Developer",
+      "Angular Frontend Developer",
       "Full Stack Java Developer",
       "Software Engineer"
     ];
